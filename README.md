@@ -28,13 +28,11 @@ https://readyround.vercel.app/
 <b>Interview Page</b>
 
 <br><br>
-
-<img src="https://github.com/user-attachments/assets/827215c4-c5fd-4cd6-9679-fbb155a9b368" width="250">
-
-<img src="https://github.com/user-attachments/assets/48740e55-89b4-4c91-ad52-b2c3e4d0f822"  width="250">
-
-<img src="https://github.com/user-attachments/assets/55ec9172-31ce-47f3-9899-2fcfb22f404f" width="250">
-
+<div style="display:flex; justify-content:center; gap:20px;">
+<img src="Screenshot/home.jpeg" width="250">
+<img src="Screenshot/interview.jpeg"  width="250">
+<img src="Screenshot/landing.jpeg" width="250">
+</div>
 </p>
 
 ---
