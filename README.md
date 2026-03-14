@@ -1,1 +1,89 @@
-# readyround-demo
+# 🚀 ReadyRound – AI Interview Preparation Platform
+
+ReadyRound is an AI-powered interview preparation platform designed to help students and developers practice coding, technical, and behavioral interviews using artificial intelligence.
+
+It simulates real interview scenarios and generates questions to help users improve problem-solving skills and interview confidence.
+
+---
+
+## 🌐 Live Demo
+https://readyround.vercel.app/
+
+---
+
+## 📸 Screenshots
+<p align="center">
+
+<b>Home Page</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Dashboard</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Interview Page</b>
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/827215c4-c5fd-4cd6-9679-fbb155a9b368" width="250">
+
+<img src="https://github.com/user-attachments/assets/48740e55-89b4-4c91-ad52-b2c3e4d0f822"  width="250">
+
+<img src="https://github.com/user-attachments/assets/55ec9172-31ce-47f3-9899-2fcfb22f404f" width="250">
+
+</p>
+
+---
+
+## ✨ Features
+
+- 🤖 AI-generated interview questions
+- 💻 Coding interview practice
+- 🧠 Technical & behavioral interview preparation
+- ⚡ Real-time interview simulation
+- 🎯 Multiple interview categories
+- 📈 Improve problem-solving and interview confidence
+
+---
+
+## 🛠 Tech Stack
+
+Frontend  
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+
+Backend  
+- API Integration  
+- AI Model Integration  
+
+Tools  
+- Git  
+- GitHub  
+
+Deployment  
+- Vercel
+---
+
+## 🚀 Usage
+
+1. Open the application  
+2. Select interview category  
+3. Choose difficulty level  
+4. Practice AI-generated interview questions, or
+5. Resume-based question generation
+6. Improve your interview performance
+7. Get the Interview feedback
+
+---
+
+<h4>## 👨‍💻 Author
+
+Avinash Yadav  
+Founder & Developer of ReadyRound  </h4>
+
+GitHub  
+https://github.com/avinash-as  
+
+---
+
+## ⭐ Support
+
+If you like this project, please ⭐ the repository on GitHub.
+
