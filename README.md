@@ -1,4 +1,13 @@
 # 🚀 ReadyRound – AI Interview Preparation Platform
+<hr style="border:3px solid black; width:60%;">
+
+
+<h2>⚠️ **This repository is only a DEMO version.**</h2>
+
+The complete production source code is kept in a **private repository** to protect intellectual property.
+
+If you are a recruiter or collaborator and want to review the full code, please contact me or request access.
+<hr style="border:3px solid black; width:60%;">
 
 ReadyRound is an AI-powered interview preparation platform designed to help students and developers practice coding, technical, and behavioral interviews using artificial intelligence.
 
@@ -75,11 +84,20 @@ Deployment
 
 <h4>## 👨‍💻 Author
 
-Avinash Yadav  
-Founder & Developer of ReadyRound  </h4>
+<b>Avinash Yadav 
+Founder & Developer of ReadyRound </b>  </h4>
 
 GitHub  
 https://github.com/avinash-as  
+
+## Connect With Me
+
+If you would like to review the full source code or discuss opportunities, please contact me.
+
+🔗 LinkedIn: https://www.linkedin.com/in/avinashhhh<br></br>
+💻 GitHub: https://github.com/avinash-as
+
+The production source code is stored in a private repository and access can be provided upon request.
 
 ---
 
