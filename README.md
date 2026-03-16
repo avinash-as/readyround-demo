@@ -82,7 +82,7 @@ Deployment
 
 <h4>## 👨‍💻 Author
 
-<b>Avinash Yadav 
+<b>Avinash Yadav <br>
 Founder & Developer of ReadyRound </b>  </h4>
 
 GitHub  
