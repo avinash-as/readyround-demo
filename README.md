@@ -80,13 +80,11 @@ Deployment
 
 ---
 
-<h4>## 👨‍💻 Author
+<h2>## 👨‍💻 <u>Author</u></h2>
 
-<b>Avinash Yadav <br>
+<h4><b>Avinash Yadav <br>
 Founder & Developer of ReadyRound </b>  </h4>
 
-GitHub  
-https://github.com/avinash-as  
 
 ## Connect With Me
 
